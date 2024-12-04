@@ -27,3 +27,26 @@ main {
     font-style: normal;
     line-height: 1.24;
 }
+
+/*MEDIA QUERIES*/
+
+/* Stili di base per dispositivi mobili */
+body {
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+/* Miglioramenti per tablet */
+@media (min-width: 768px) {
+    body {
+        font-size: 18px;
+    }
+}
+
+/* Miglioramenti per desktop */
+@media (min-width: 1024px) {
+    body {
+        font-size: 20px;
+    }
+}

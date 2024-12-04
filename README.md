@@ -38,3 +38,4 @@ NB: per aiutarmi nell'impaginazioe utilizzarò Bootstrap 5.3
 MILESTONE 1
 
 1 - Procedo con delle aree con "rettangoli colorati" per farmi un idea di quanto spazio si dovrà occupare. Inseirò alcune delle immagini fornitomi sempre per una questione di progettazione delle macroaree
+2 - provo impostare fin da esso le media query necessarie, dal momento che è stato specificato che questo esercizio dovrebbe essere impostato per "mobile first"
