@@ -41,3 +41,4 @@ MILESTONE 1
 2 - provo impostare fin da esso le media query necessarie, dal momento che è stato specificato che questo esercizio dovrebbe essere impostato per "mobile first"
 3 - per realizzare la sezione rubber duck debbunings ho inserito fin da subito le immagini fornite, sempre per un discorso di impaginazione.
 3.1 - trovandomi in difficoltà ho commentato il codice precedente e utilizzato al suo posto un paio di div colorati per realizzare un impaginazione fedele all'immagine di mockup
+3.2 - dopo un controllo ho notato che l'altezza del div bg-banner era anomala, ergo ho inserito più altezze fisse così che quest div si adatti a diversa media queries

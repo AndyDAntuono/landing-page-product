@@ -34,19 +34,49 @@ main {
     line-height: 1.24;
 }
 
+
+/*MAIN CONTENT*/
+
+.bg-banner {
+    background-image: url(../img/banner-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.purchase-duck {
+    border: 1px solid black;
+}
+
 /*MEDIA QUERIES*/
 
 /* Stili di base per dispositivi mobili */
 body {
     font-size: 16px;
-    margin: 0;
-    padding: 0;
 }
 
-/* Miglioramenti per tablet */
+.bg-banner {
+    height: 292.91px;
+}
+
+@media (min-width: 375px){
+    .bg-banner {
+        height: 347.34px;
+    }
+}
+
+@media (min-width: 425px){
+    .bg-banner {
+        height: 396.81px;
+    }
+}
+
 @media (min-width: 768px) {
     body {
         font-size: 18px;
+    }
+
+    .bg-banner {
+        height: 344.38px;
     }
 }
 
@@ -55,18 +85,18 @@ body {
     body {
         font-size: 20px;
     }
+
+    .bg-banner {
+        height: 463.13px;
+    }
 }
 
-/*MAIN CONTENT*/
+@media (min-width: 1440px) {
+    body {
+        font-size: 25px;
+    }
 
-.bg-banner {
-    background-image: url(../img/banner-bg.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    /*ho dovuto inserire un altezza fissa per rispettare l'altezza di questo div proposta dall'immagine di  mockup*/
-    height: 463.13px;
-}
-
-.purchase-duck {
-    border: 1px solid black;
+    .bg-banner {
+        height: 641.25px;
+    }
 }
