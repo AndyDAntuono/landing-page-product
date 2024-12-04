@@ -47,3 +47,4 @@ MILESTONE 1
 5.1 - inserico il codice fornitomi per le icone all'inizio del body
 6 - avendo concluso l'impostazione della prima recensione, lascio questa sezione in questo stato finché non passerò all'esecuzione della milestone 3
     NB: ho scritto "proof copy" nel titolo del commit perché non conosco il termine giusto per "bozza" nel linguaggio da web developer
+7 - ho aggiunto la sezione della della collezione delle paperelle. Definierò i dettagli dell'impaginazione durante l'esecuzione delle milestone 2 e 3

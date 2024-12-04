@@ -51,6 +51,15 @@ main {
     fill: gold;
 }
 
+.bg-grey {
+    background-color: lightgrey;
+}
+
+
+.purchable-duck-price {
+    color: green;
+}
+
 /*MEDIA QUERIES*/
 
 /* Stili di base per dispositivi mobili */
