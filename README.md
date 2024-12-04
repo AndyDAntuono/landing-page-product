@@ -43,3 +43,7 @@ MILESTONE 1
 3.1 - trovandomi in difficoltà ho commentato il codice precedente e utilizzato al suo posto un paio di div colorati per realizzare un impaginazione fedele all'immagine di mockup
 3.2 - dopo un controllo ho notato che l'altezza del div bg-banner era anomala, ergo ho inserito più altezze fisse così che quest div si adatti a diversa media queries
 4 - imposto la sezione della perfomance inserendo con degli div h2 e p. Dato che sono ancora nella Milestone 1 completerò il lavoro in quella successiva.
+5 - creo la sezione dei testimonials. Ma prima delle recensioni vere e proprire inserisco un titolo che che le presenti
+5.1 - inserico il codice fornitomi per le icone all'inizio del body
+6 - avendo concluso l'impostazione della prima recensione, lascio questa sezione in questo stato finché non passerò all'esecuzione della milestone 3
+    NB: ho scritto "proof copy" nel titolo del commit perché non conosco il termine giusto per "bozza" nel linguaggio da web developer

@@ -47,6 +47,10 @@ main {
     border: 1px solid black;
 }
 
+.stars {
+    fill: gold;
+}
+
 /*MEDIA QUERIES*/
 
 /* Stili di base per dispositivi mobili */
