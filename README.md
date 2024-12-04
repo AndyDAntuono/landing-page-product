@@ -42,3 +42,4 @@ MILESTONE 1
 3 - per realizzare la sezione rubber duck debbunings ho inserito fin da subito le immagini fornite, sempre per un discorso di impaginazione.
 3.1 - trovandomi in difficoltà ho commentato il codice precedente e utilizzato al suo posto un paio di div colorati per realizzare un impaginazione fedele all'immagine di mockup
 3.2 - dopo un controllo ho notato che l'altezza del div bg-banner era anomala, ergo ho inserito più altezze fisse così che quest div si adatti a diversa media queries
+4 - imposto la sezione della perfomance inserendo con degli div h2 e p. Dato che sono ancora nella Milestone 1 completerò il lavoro in quella successiva.
