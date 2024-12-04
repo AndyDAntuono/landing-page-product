@@ -8,7 +8,13 @@
 /*le seguenti classi serviranno solo una fase iniziale del progetto e verranno cancellatto quando potrò inserire il contentunuto vero e proprio del progetto*/
 
 .yellow-box {
-    background-color: yellow;}
+    background-color: yellow;
+}
+
+.green-box {
+    background-color: green;
+    height: 100px;
+}
 
 /*FONT*/
 
@@ -49,4 +55,18 @@ body {
     body {
         font-size: 20px;
     }
+}
+
+/*MAIN CONTENT*/
+
+.bg-banner {
+    background-image: url(../img/banner-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*ho dovuto inserire un altezza fissa per rispettare l'altezza di questo div proposta dall'immagine di  mockup*/
+    height: 463.13px;
+}
+
+.purchase-duck {
+    border: 1px solid black;
 }

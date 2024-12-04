@@ -39,3 +39,5 @@ MILESTONE 1
 
 1 - Procedo con delle aree con "rettangoli colorati" per farmi un idea di quanto spazio si dovrà occupare. Inseirò alcune delle immagini fornitomi sempre per una questione di progettazione delle macroaree
 2 - provo impostare fin da esso le media query necessarie, dal momento che è stato specificato che questo esercizio dovrebbe essere impostato per "mobile first"
+3 - per realizzare la sezione rubber duck debbunings ho inserito fin da subito le immagini fornite, sempre per un discorso di impaginazione.
+3.1 - trovandomi in difficoltà ho commentato il codice precedente e utilizzato al suo posto un paio di div colorati per realizzare un impaginazione fedele all'immagine di mockup
