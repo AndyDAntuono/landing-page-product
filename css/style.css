@@ -60,8 +60,32 @@ main {
     color: green;
 }
 
-.services-incons {
+.services-icons {
     color: blue;
+}
+
+.send-email {
+    border-bottom: 1px solid black;
+}
+
+#email {
+    background-color: rgba(255, 239, 239, 0);
+    border: 0;
+    outline: 0;
+}
+
+.send-icon {
+    color: green;
+}
+
+.social-media-icon {
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: green;
 }
 
 /*MEDIA QUERIES*/
