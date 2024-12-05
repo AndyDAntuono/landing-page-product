@@ -49,3 +49,4 @@ MILESTONE 1
     NB: ho scritto "proof copy" nel titolo del commit perché non conosco il termine giusto per "bozza" nel linguaggio da web developer
 7 - ho aggiunto la sezione della della collezione delle paperelle. Definierò i dettagli dell'impaginazione durante l'esecuzione delle milestone 2 e 3
 8 - aggiunto la sezione della FAQ. Dato che ho già inserito tutte le domande e le risposte è come se avessi già completata la parte di lavoroo destinata alla milestone. Rimarrebbe solo il far sparire e ricomparire le risposte, ma questo lavoro lo farò durante l'esecuzione della milestone 3
+9 - ho aggiunto una bozza della sezione dedicata ai servizi

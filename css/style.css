@@ -60,6 +60,10 @@ main {
     color: green;
 }
 
+.services-incons {
+    color: blue;
+}
+
 /*MEDIA QUERIES*/
 
 /* Stili di base per dispositivi mobili */
