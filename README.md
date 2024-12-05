@@ -51,3 +51,4 @@ MILESTONE 1
 8 - aggiunto la sezione della FAQ. Dato che ho già inserito tutte le domande e le risposte è come se avessi già completata la parte di lavoroo destinata alla milestone. Rimarrebbe solo il far sparire e ricomparire le risposte, ma questo lavoro lo farò durante l'esecuzione della milestone 3
 9 - ho aggiunto una bozza della sezione dedicata ai servizi
 10 - ho aggiunto le sezione dedicata alla newsletter e anche le icone dei social-media
+11 - come ultima fase della milestone 1 aggiungo il contenuto del footer. ovvero la scritta "&copy; BooLanding Product. Designed by Boolean"
